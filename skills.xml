@@ -1,0 +1,13 @@
+<skills>
+	<Types of testing>Smoke, regression, functional, stress, end to end</Types of testing>
+	<File types>TXT, JSON, XML, JS, PY</File types>
+	<Development methodologies>Scrum, Kanban</Development methodologies>
+	<Linux>Copying, creating, viewing, moving files on servers without a graphical interface</Linux>
+	<Sniffer>Charles, Fiddler</Sniffer>
+	<StressTesting>JMeter</StressTesting> 
+	<API>Postman</API>
+	<SQL>CREATE, ALTER, SELECT, GROUP BY, JOIN</SQL>
+	<Avtomation>Phyton</Avtomation>
+	<VPN>How it works, why it is needed, how to use it, options for tools</VPN>
+	<Dev tools>Google Chrome, FireFox</Dev tools>
+</skills>
