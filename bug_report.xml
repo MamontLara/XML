@@ -1,0 +1,11 @@
+<bug_report>
+  <ID>1</ID>
+	<Environment>Google Chrome 108.0.5359.125</Environment>
+	<Title>The 'Submit' button is not active in 'Notify me' form on the main page</Title>  
+	<Steps to reproduce>1.Open main page. 2.Click 'Notify me'. 3.Fill the form with correct data. 4.Click 'Submit' button</Steps to reproduce> 
+	<Expected result>The 'Submit' button in 'Notify me' form active after filling out the form.</Expected result>
+	<Actual result>The 'Submit' button in 'Notify me' form is not active.</Actual result>
+	<Severity>Major</Severity>
+	<Priority>Medium</Priority> 
+	<Attachments>https://drive.google.com/file/d/1Goen4oui1eto4tJ3sdT6hCU5WTjKOZ_s/view?usp=sharing</Attachments>
+</bug_report>
